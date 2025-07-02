@@ -1,0 +1,501 @@
+Customer_ID,Gender,Age,Product_Category,Payment_Method,Purchase_Frequency,Purchase_Amount,Location
+CUST1000,Male,60,Electronics,Cash,Very Often,8881.8,Delhi
+CUST1001,Female,51,Clothing,UPI,Very Often,6064.3,Delhi
+CUST1002,Female,59,Fitness,UPI,Rarely,6179.39,Chennai
+CUST1003,Female,50,Electronics,Debit Card,Very Often,5815.93,Delhi
+CUST1004,Male,42,Groceries,UPI,Sometimes,3368.03,Kolkata
+CUST1005,Female,26,Books,Net Banking,Sometimes,7707.15,Chennai
+CUST1006,Male,31,Electronics,Debit Card,Very Often,8235.99,Mumbai
+CUST1007,Male,48,Books,Cash,Very Often,5088.39,Bangalore
+CUST1008,Female,36,Clothing,Cash,Rarely,6606.62,Kolkata
+CUST1009,Female,49,Fitness,Credit Card,Sometimes,1361.42,Hyderabad
+CUST1010,Female,22,Electronics,UPI,Very Often,6026.63,Chennai
+CUST1011,Female,56,Beauty,Cash,Very Often,3146.69,Mumbai
+CUST1012,Male,57,Fitness,Cash,Very Often,158.84,Bangalore
+CUST1013,Male,31,Clothing,Cash,Often,1233.75,Chennai
+CUST1014,Female,65,Groceries,Net Banking,Often,5143.18,Delhi
+CUST1015,Female,19,Clothing,Net Banking,Often,2979.21,Bangalore
+CUST1016,Male,63,Groceries,Debit Card,Sometimes,3211.87,Mumbai
+CUST1017,Male,65,Clothing,Cash,Very Often,2824.66,Kolkata
+CUST1018,Male,21,Groceries,UPI,Often,3211.54,Hyderabad
+CUST1019,Male,64,Clothing,Debit Card,Rarely,2564.13,Kolkata
+CUST1020,Female,47,Electronics,Cash,Sometimes,2813.04,Chennai
+CUST1021,Male,54,Fitness,UPI,Rarely,7744.17,Bangalore
+CUST1022,Male,23,Clothing,Net Banking,Rarely,2366.34,Chennai
+CUST1023,Female,63,Books,Credit Card,Very Often,2642.3,Bangalore
+CUST1024,Male,18,Fitness,Credit Card,Often,5526.62,Hyderabad
+CUST1025,Male,23,Books,Debit Card,Often,3352.44,Delhi
+CUST1026,Female,40,Books,UPI,Rarely,9055.85,Bangalore
+CUST1027,Female,55,Clothing,Net Banking,Sometimes,7903.7,Hyderabad
+CUST1028,Male,48,Groceries,Cash,Very Often,3501.13,Hyderabad
+CUST1029,Male,29,Fitness,UPI,Very Often,5710.06,Chennai
+CUST1030,Female,41,Beauty,UPI,Often,8345.71,Mumbai
+CUST1031,Male,56,Beauty,Credit Card,Often,8234.54,Delhi
+CUST1032,Male,53,Fitness,Net Banking,Very Often,5178.25,Chennai
+CUST1033,Male,65,Electronics,Credit Card,Rarely,8738.88,Delhi
+CUST1034,Male,40,Groceries,Credit Card,Very Often,5115.84,Delhi
+CUST1035,Male,28,Electronics,Cash,Often,2932.73,Bangalore
+CUST1036,Male,41,Electronics,Net Banking,Rarely,5639.58,Kolkata
+CUST1037,Male,50,Beauty,Cash,Very Often,3019.43,Kolkata
+CUST1038,Male,58,Fitness,UPI,Rarely,7303.58,Bangalore
+CUST1039,Male,41,Clothing,Cash,Very Often,1678.52,Bangalore
+CUST1040,Male,25,Books,UPI,Very Often,2896.54,Mumbai
+CUST1041,Female,64,Beauty,UPI,Sometimes,1162.54,Hyderabad
+CUST1042,Male,30,Clothing,UPI,Rarely,1131.35,Delhi
+CUST1043,Female,33,Books,Net Banking,Rarely,8759.84,Bangalore
+CUST1044,Female,26,Beauty,UPI,Very Often,4604.66,Kolkata
+CUST1045,Male,29,Books,Net Banking,Very Often,9471.46,Mumbai
+CUST1046,Male,19,Electronics,Net Banking,Very Often,5483.83,Chennai
+CUST1047,Female,31,Electronics,Net Banking,Sometimes,3780.81,Mumbai
+CUST1048,Male,19,Beauty,Debit Card,Very Often,6288.15,Mumbai
+CUST1049,Female,59,Books,Credit Card,Rarely,2924.46,Kolkata
+CUST1050,Male,34,Books,UPI,Often,508.71,Bangalore
+CUST1051,Male,42,Beauty,Debit Card,Sometimes,1976.04,Chennai
+CUST1052,Female,27,Clothing,UPI,Rarely,2054.95,Chennai
+CUST1053,Male,45,Fitness,Credit Card,Often,7861.64,Chennai
+CUST1054,Female,49,Books,Debit Card,Often,2670.43,Mumbai
+CUST1055,Male,65,Electronics,Credit Card,Often,6778.59,Chennai
+CUST1056,Female,48,Electronics,Cash,Sometimes,8274.39,Kolkata
+CUST1057,Male,43,Books,Cash,Sometimes,8182.34,Mumbai
+CUST1058,Male,61,Groceries,Credit Card,Rarely,6402.3,Delhi
+CUST1059,Male,18,Beauty,Debit Card,Often,4910.36,Kolkata
+CUST1060,Male,27,Beauty,Debit Card,Sometimes,740.49,Mumbai
+CUST1061,Female,30,Clothing,Debit Card,Sometimes,4108.96,Chennai
+CUST1062,Male,23,Books,Debit Card,Very Often,6622.6,Kolkata
+CUST1063,Female,39,Books,UPI,Sometimes,6279.0,Mumbai
+CUST1064,Male,63,Clothing,Credit Card,Sometimes,1666.54,Kolkata
+CUST1065,Male,53,Electronics,Debit Card,Very Often,3186.94,Kolkata
+CUST1066,Female,34,Fitness,Credit Card,Sometimes,5154.32,Kolkata
+CUST1067,Male,46,Clothing,Net Banking,Often,3353.04,Chennai
+CUST1068,Female,37,Beauty,UPI,Rarely,6275.26,Bangalore
+CUST1069,Male,23,Books,Net Banking,Rarely,8782.99,Kolkata
+CUST1070,Female,43,Clothing,UPI,Often,2277.65,Kolkata
+CUST1071,Female,35,Clothing,Credit Card,Very Often,7288.11,Delhi
+CUST1072,Female,44,Electronics,UPI,Rarely,7531.41,Hyderabad
+CUST1073,Male,39,Groceries,Debit Card,Rarely,5036.3,Hyderabad
+CUST1074,Male,57,Electronics,Cash,Rarely,4070.14,Chennai
+CUST1075,Female,54,Books,UPI,Very Often,7551.31,Delhi
+CUST1076,Male,50,Groceries,Net Banking,Very Often,663.13,Hyderabad
+CUST1077,Male,42,Clothing,Cash,Very Often,6199.89,Bangalore
+CUST1078,Female,22,Beauty,Cash,Very Often,3370.97,Delhi
+CUST1079,Female,56,Books,Net Banking,Sometimes,7420.59,Bangalore
+CUST1080,Female,28,Groceries,UPI,Sometimes,8848.21,Mumbai
+CUST1081,Male,47,Books,Cash,Rarely,5883.12,Hyderabad
+CUST1082,Male,65,Books,Debit Card,Often,9173.38,Kolkata
+CUST1083,Male,65,Beauty,Debit Card,Often,3574.89,Bangalore
+CUST1084,Male,56,Clothing,Cash,Often,484.49,Kolkata
+CUST1085,Male,29,Groceries,Credit Card,Very Often,2948.26,Hyderabad
+CUST1086,Male,45,Fitness,Net Banking,Rarely,8245.61,Delhi
+CUST1087,Female,60,Electronics,Net Banking,Very Often,2169.43,Kolkata
+CUST1088,Female,41,Electronics,UPI,Often,5424.77,Hyderabad
+CUST1089,Male,54,Books,Debit Card,Often,9697.6,Mumbai
+CUST1090,Male,34,Beauty,Cash,Sometimes,618.69,Mumbai
+CUST1091,Male,37,Electronics,Debit Card,Very Often,5997.53,Bangalore
+CUST1092,Male,65,Books,UPI,Often,7170.74,Mumbai
+CUST1093,Female,23,Electronics,Net Banking,Often,1986.41,Delhi
+CUST1094,Male,41,Fitness,Debit Card,Rarely,8454.87,Kolkata
+CUST1095,Female,55,Groceries,UPI,Rarely,7581.25,Chennai
+CUST1096,Female,61,Electronics,Credit Card,Rarely,2140.58,Chennai
+CUST1097,Female,29,Books,Cash,Sometimes,1899.93,Bangalore
+CUST1098,Female,55,Beauty,Debit Card,Very Often,7889.01,Delhi
+CUST1099,Female,43,Books,Debit Card,Rarely,2531.19,Hyderabad
+CUST1100,Female,20,Clothing,Net Banking,Very Often,6535.96,Delhi
+CUST1101,Female,36,Clothing,Credit Card,Rarely,2956.02,Delhi
+CUST1102,Female,51,Electronics,UPI,Rarely,8501.93,Kolkata
+CUST1103,Female,50,Books,UPI,Rarely,110.41,Hyderabad
+CUST1104,Female,42,Books,Cash,Often,1649.96,Delhi
+CUST1105,Male,20,Electronics,Net Banking,Rarely,4441.78,Hyderabad
+CUST1106,Male,30,Books,Credit Card,Often,4851.95,Hyderabad
+CUST1107,Female,59,Groceries,Cash,Very Often,5243.86,Chennai
+CUST1108,Male,38,Electronics,Cash,Rarely,9435.61,Delhi
+CUST1109,Female,54,Beauty,UPI,Rarely,5157.97,Chennai
+CUST1110,Female,38,Groceries,Cash,Rarely,6478.26,Kolkata
+CUST1111,Male,48,Groceries,Net Banking,Rarely,4391.92,Mumbai
+CUST1112,Male,34,Clothing,Cash,Often,7560.21,Kolkata
+CUST1113,Female,54,Fitness,Net Banking,Rarely,9931.91,Chennai
+CUST1114,Female,33,Clothing,Net Banking,Sometimes,4736.01,Delhi
+CUST1115,Female,35,Groceries,Net Banking,Very Often,9355.91,Kolkata
+CUST1116,Female,30,Groceries,Credit Card,Very Often,6785.92,Hyderabad
+CUST1117,Female,31,Groceries,Net Banking,Often,9747.31,Hyderabad
+CUST1118,Female,31,Clothing,Net Banking,Sometimes,6852.04,Delhi
+CUST1119,Male,24,Clothing,Net Banking,Sometimes,2549.29,Chennai
+CUST1120,Male,58,Electronics,Debit Card,Often,3493.66,Delhi
+CUST1121,Male,60,Groceries,Net Banking,Rarely,5992.16,Bangalore
+CUST1122,Male,28,Clothing,Debit Card,Very Often,9351.73,Hyderabad
+CUST1123,Female,22,Clothing,UPI,Very Often,6276.22,Mumbai
+CUST1124,Female,43,Groceries,Debit Card,Sometimes,7580.64,Delhi
+CUST1125,Female,33,Electronics,Debit Card,Rarely,1293.93,Mumbai
+CUST1126,Female,34,Books,Cash,Very Often,2915.85,Mumbai
+CUST1127,Male,45,Fitness,Cash,Sometimes,3088.89,Mumbai
+CUST1128,Male,23,Books,Cash,Sometimes,5586.94,Hyderabad
+CUST1129,Male,37,Fitness,UPI,Often,2183.78,Bangalore
+CUST1130,Male,32,Fitness,Cash,Rarely,3105.34,Bangalore
+CUST1131,Female,36,Groceries,Debit Card,Rarely,5026.3,Mumbai
+CUST1132,Female,33,Electronics,Net Banking,Often,7643.61,Bangalore
+CUST1133,Male,37,Electronics,Credit Card,Often,9978.04,Mumbai
+CUST1134,Male,43,Electronics,UPI,Sometimes,9060.25,Mumbai
+CUST1135,Female,65,Electronics,Credit Card,Rarely,2667.55,Hyderabad
+CUST1136,Female,46,Groceries,Net Banking,Sometimes,8958.83,Chennai
+CUST1137,Male,54,Fitness,Debit Card,Very Often,9165.17,Hyderabad
+CUST1138,Male,57,Beauty,Cash,Sometimes,6579.63,Mumbai
+CUST1139,Male,59,Fitness,Cash,Very Often,7761.54,Delhi
+CUST1140,Female,47,Books,Credit Card,Very Often,1509.78,Delhi
+CUST1141,Female,40,Groceries,Cash,Often,3949.25,Hyderabad
+CUST1142,Male,43,Beauty,UPI,Very Often,4551.93,Chennai
+CUST1143,Male,59,Clothing,Net Banking,Often,1985.77,Kolkata
+CUST1144,Male,41,Clothing,Credit Card,Very Often,452.15,Hyderabad
+CUST1145,Female,34,Books,Net Banking,Very Often,8988.17,Chennai
+CUST1146,Male,21,Electronics,UPI,Rarely,2526.55,Mumbai
+CUST1147,Female,55,Beauty,Credit Card,Rarely,7406.19,Delhi
+CUST1148,Female,31,Books,Credit Card,Very Often,9692.18,Kolkata
+CUST1149,Male,47,Books,Credit Card,Very Often,7392.64,Chennai
+CUST1150,Male,31,Beauty,Cash,Often,7062.33,Hyderabad
+CUST1151,Male,50,Electronics,UPI,Rarely,5913.2,Delhi
+CUST1152,Male,24,Clothing,UPI,Rarely,8884.17,Chennai
+CUST1153,Female,50,Groceries,UPI,Sometimes,6387.72,Hyderabad
+CUST1154,Male,27,Beauty,Net Banking,Very Often,1868.14,Hyderabad
+CUST1155,Male,60,Groceries,Net Banking,Rarely,5540.44,Hyderabad
+CUST1156,Male,57,Electronics,Debit Card,Often,6666.59,Chennai
+CUST1157,Female,20,Beauty,UPI,Often,9962.97,Delhi
+CUST1158,Male,27,Groceries,Net Banking,Very Often,4360.36,Delhi
+CUST1159,Female,36,Books,Net Banking,Often,6918.73,Kolkata
+CUST1160,Female,49,Beauty,Debit Card,Very Often,1214.69,Chennai
+CUST1161,Male,37,Beauty,Credit Card,Rarely,2037.42,Kolkata
+CUST1162,Female,61,Electronics,UPI,Sometimes,441.49,Mumbai
+CUST1163,Male,45,Groceries,Cash,Often,6995.75,Mumbai
+CUST1164,Female,60,Fitness,Cash,Very Often,6432.9,Bangalore
+CUST1165,Male,30,Clothing,UPI,Rarely,3908.71,Bangalore
+CUST1166,Female,24,Fitness,Net Banking,Very Often,8341.71,Kolkata
+CUST1167,Female,54,Clothing,Net Banking,Sometimes,3574.14,Hyderabad
+CUST1168,Male,19,Clothing,UPI,Sometimes,4080.06,Hyderabad
+CUST1169,Female,21,Books,Cash,Rarely,6541.45,Bangalore
+CUST1170,Male,24,Beauty,Credit Card,Very Often,2028.12,Delhi
+CUST1171,Male,63,Books,UPI,Rarely,1691.78,Delhi
+CUST1172,Male,21,Electronics,Cash,Often,2229.4,Hyderabad
+CUST1173,Female,47,Books,Credit Card,Rarely,1923.56,Mumbai
+CUST1174,Female,54,Electronics,Net Banking,Rarely,8353.88,Mumbai
+CUST1175,Male,20,Groceries,UPI,Rarely,7442.0,Hyderabad
+CUST1176,Male,45,Beauty,Net Banking,Rarely,8415.42,Bangalore
+CUST1177,Female,48,Groceries,Net Banking,Rarely,1564.78,Chennai
+CUST1178,Female,46,Electronics,Debit Card,Very Often,3128.42,Chennai
+CUST1179,Male,49,Beauty,Debit Card,Rarely,7344.39,Bangalore
+CUST1180,Female,23,Fitness,Net Banking,Rarely,6749.21,Mumbai
+CUST1181,Male,28,Clothing,UPI,Rarely,5766.34,Mumbai
+CUST1182,Male,20,Electronics,UPI,Very Often,8811.52,Kolkata
+CUST1183,Female,43,Clothing,Debit Card,Very Often,7265.86,Bangalore
+CUST1184,Female,34,Electronics,Credit Card,Rarely,6881.67,Mumbai
+CUST1185,Female,23,Fitness,Debit Card,Very Often,4191.51,Mumbai
+CUST1186,Male,57,Beauty,Cash,Rarely,1499.41,Mumbai
+CUST1187,Male,56,Clothing,Net Banking,Sometimes,875.85,Delhi
+CUST1188,Male,31,Electronics,Credit Card,Rarely,5165.17,Mumbai
+CUST1189,Female,55,Electronics,UPI,Often,5980.79,Chennai
+CUST1190,Male,65,Groceries,Credit Card,Often,6746.73,Mumbai
+CUST1191,Female,59,Electronics,UPI,Sometimes,8445.14,Mumbai
+CUST1192,Male,37,Clothing,Credit Card,Often,130.46,Chennai
+CUST1193,Male,33,Groceries,Debit Card,Sometimes,2502.9,Delhi
+CUST1194,Male,44,Books,Credit Card,Very Often,995.84,Hyderabad
+CUST1195,Female,36,Groceries,Debit Card,Sometimes,7545.35,Mumbai
+CUST1196,Female,25,Books,UPI,Rarely,1220.46,Mumbai
+CUST1197,Male,61,Clothing,Credit Card,Rarely,8082.83,Bangalore
+CUST1198,Female,24,Beauty,Credit Card,Very Often,8282.52,Kolkata
+CUST1199,Female,58,Books,Credit Card,Very Often,4901.33,Hyderabad
+CUST1200,Female,47,Beauty,UPI,Very Often,3218.6,Mumbai
+CUST1201,Male,42,Groceries,UPI,Rarely,6594.77,Kolkata
+CUST1202,Female,36,Groceries,Debit Card,Often,3425.33,Delhi
+CUST1203,Male,44,Beauty,Credit Card,Sometimes,5929.2,Delhi
+CUST1204,Male,36,Electronics,Net Banking,Sometimes,4602.72,Bangalore
+CUST1205,Female,58,Books,Debit Card,Often,692.29,Hyderabad
+CUST1206,Female,51,Electronics,Credit Card,Very Often,7045.28,Delhi
+CUST1207,Female,50,Electronics,UPI,Very Often,1292.86,Bangalore
+CUST1208,Male,39,Groceries,Debit Card,Rarely,2864.93,Mumbai
+CUST1209,Male,42,Electronics,Credit Card,Often,4917.13,Bangalore
+CUST1210,Male,18,Clothing,Net Banking,Very Often,3817.69,Chennai
+CUST1211,Male,29,Fitness,Credit Card,Very Often,117.14,Kolkata
+CUST1212,Male,18,Groceries,Credit Card,Rarely,625.09,Delhi
+CUST1213,Female,63,Fitness,Net Banking,Very Often,1778.94,Bangalore
+CUST1214,Female,47,Beauty,Credit Card,Often,5234.57,Chennai
+CUST1215,Male,19,Beauty,Net Banking,Very Often,6330.26,Chennai
+CUST1216,Male,28,Fitness,Cash,Often,8874.11,Delhi
+CUST1217,Female,35,Fitness,UPI,Rarely,8189.02,Hyderabad
+CUST1218,Female,26,Fitness,Credit Card,Often,7171.02,Hyderabad
+CUST1219,Female,51,Electronics,UPI,Very Often,2817.15,Chennai
+CUST1220,Male,62,Books,UPI,Often,5107.33,Kolkata
+CUST1221,Female,37,Electronics,Net Banking,Often,9499.62,Delhi
+CUST1222,Female,53,Electronics,Net Banking,Often,522.94,Delhi
+CUST1223,Male,50,Fitness,Cash,Rarely,3700.27,Chennai
+CUST1224,Male,63,Clothing,UPI,Often,3966.17,Chennai
+CUST1225,Female,22,Beauty,Debit Card,Sometimes,3676.31,Kolkata
+CUST1226,Male,52,Clothing,Net Banking,Rarely,3744.15,Bangalore
+CUST1227,Female,42,Fitness,Net Banking,Often,8462.06,Kolkata
+CUST1228,Male,31,Electronics,Cash,Rarely,5341.35,Kolkata
+CUST1229,Male,18,Fitness,Credit Card,Sometimes,6092.61,Kolkata
+CUST1230,Female,53,Fitness,Credit Card,Sometimes,9358.03,Delhi
+CUST1231,Female,31,Books,Net Banking,Very Often,3660.53,Hyderabad
+CUST1232,Male,52,Electronics,Debit Card,Very Often,823.08,Hyderabad
+CUST1233,Male,51,Books,Cash,Often,8049.45,Mumbai
+CUST1234,Male,41,Books,Debit Card,Very Often,9079.81,Kolkata
+CUST1235,Female,20,Books,Debit Card,Rarely,4987.63,Chennai
+CUST1236,Male,41,Clothing,Cash,Often,3929.69,Chennai
+CUST1237,Female,30,Books,UPI,Very Often,1302.12,Delhi
+CUST1238,Female,62,Groceries,Credit Card,Sometimes,8250.67,Mumbai
+CUST1239,Female,63,Electronics,UPI,Often,1901.34,Chennai
+CUST1240,Female,33,Beauty,Credit Card,Rarely,6984.71,Delhi
+CUST1241,Female,43,Beauty,Cash,Very Often,7968.39,Mumbai
+CUST1242,Female,24,Books,Cash,Very Often,9708.02,Hyderabad
+CUST1243,Female,59,Fitness,UPI,Very Often,355.45,Chennai
+CUST1244,Female,33,Fitness,Debit Card,Very Often,7383.99,Bangalore
+CUST1245,Female,24,Groceries,Net Banking,Rarely,5798.24,Kolkata
+CUST1246,Female,21,Clothing,Net Banking,Sometimes,1271.12,Bangalore
+CUST1247,Male,26,Electronics,Credit Card,Rarely,2534.12,Delhi
+CUST1248,Female,34,Groceries,Debit Card,Very Often,9011.94,Hyderabad
+CUST1249,Female,60,Books,Cash,Very Often,6401.6,Chennai
+CUST1250,Male,63,Electronics,Credit Card,Very Often,3257.44,Delhi
+CUST1251,Male,28,Electronics,Net Banking,Rarely,570.87,Mumbai
+CUST1252,Female,26,Books,UPI,Sometimes,2958.24,Delhi
+CUST1253,Female,34,Electronics,UPI,Often,6962.76,Kolkata
+CUST1254,Male,38,Fitness,Cash,Often,2594.4,Delhi
+CUST1255,Female,31,Electronics,UPI,Rarely,2579.5,Hyderabad
+CUST1256,Female,31,Beauty,Credit Card,Very Often,2962.55,Kolkata
+CUST1257,Female,40,Beauty,Credit Card,Often,1684.21,Chennai
+CUST1258,Male,47,Groceries,Credit Card,Sometimes,7902.05,Bangalore
+CUST1259,Female,64,Groceries,Net Banking,Rarely,6305.67,Hyderabad
+CUST1260,Male,30,Fitness,Cash,Sometimes,4055.44,Kolkata
+CUST1261,Male,63,Fitness,Debit Card,Very Often,9995.03,Bangalore
+CUST1262,Female,54,Books,Credit Card,Rarely,7543.23,Delhi
+CUST1263,Female,18,Fitness,Net Banking,Sometimes,7377.33,Hyderabad
+CUST1264,Male,42,Groceries,Credit Card,Sometimes,9144.62,Chennai
+CUST1265,Female,31,Books,Net Banking,Sometimes,3718.85,Chennai
+CUST1266,Male,62,Electronics,UPI,Rarely,4262.0,Mumbai
+CUST1267,Female,46,Books,Debit Card,Rarely,2537.7,Kolkata
+CUST1268,Male,63,Electronics,Net Banking,Rarely,1272.64,Hyderabad
+CUST1269,Male,25,Electronics,Net Banking,Rarely,3643.56,Bangalore
+CUST1270,Female,56,Beauty,UPI,Very Often,3662.22,Bangalore
+CUST1271,Male,32,Clothing,UPI,Sometimes,4438.86,Bangalore
+CUST1272,Male,35,Fitness,UPI,Often,298.55,Chennai
+CUST1273,Male,52,Electronics,Debit Card,Sometimes,6808.57,Bangalore
+CUST1274,Female,46,Clothing,Credit Card,Very Often,9692.41,Chennai
+CUST1275,Female,18,Books,Net Banking,Rarely,8177.82,Delhi
+CUST1276,Male,64,Clothing,UPI,Sometimes,8365.71,Chennai
+CUST1277,Female,45,Clothing,Cash,Sometimes,6952.12,Kolkata
+CUST1278,Male,29,Clothing,Cash,Rarely,9053.87,Delhi
+CUST1279,Male,41,Books,Net Banking,Often,9414.88,Chennai
+CUST1280,Male,46,Fitness,Credit Card,Often,5195.13,Delhi
+CUST1281,Male,59,Electronics,Debit Card,Sometimes,8371.7,Kolkata
+CUST1282,Female,61,Electronics,Net Banking,Very Often,9465.22,Mumbai
+CUST1283,Female,60,Clothing,UPI,Often,2315.48,Hyderabad
+CUST1284,Female,33,Books,Credit Card,Often,5985.18,Chennai
+CUST1285,Male,36,Clothing,Net Banking,Very Often,3144.82,Delhi
+CUST1286,Female,29,Groceries,Net Banking,Sometimes,3544.04,Chennai
+CUST1287,Female,40,Groceries,Cash,Very Often,8135.4,Bangalore
+CUST1288,Female,51,Groceries,Credit Card,Rarely,8842.56,Chennai
+CUST1289,Male,18,Clothing,Net Banking,Sometimes,4978.38,Hyderabad
+CUST1290,Male,29,Beauty,Net Banking,Very Often,1523.47,Hyderabad
+CUST1291,Female,41,Electronics,Net Banking,Often,4219.12,Delhi
+CUST1292,Female,33,Books,Credit Card,Very Often,8809.11,Kolkata
+CUST1293,Male,56,Fitness,Net Banking,Rarely,7389.72,Hyderabad
+CUST1294,Male,64,Fitness,Cash,Often,7124.29,Hyderabad
+CUST1295,Male,52,Groceries,Credit Card,Often,7506.07,Bangalore
+CUST1296,Male,47,Electronics,Credit Card,Rarely,8660.71,Mumbai
+CUST1297,Female,33,Groceries,Net Banking,Sometimes,8209.66,Kolkata
+CUST1298,Male,44,Books,UPI,Very Often,3650.18,Hyderabad
+CUST1299,Female,33,Clothing,Debit Card,Very Often,5665.91,Mumbai
+CUST1300,Female,30,Fitness,UPI,Often,951.22,Bangalore
+CUST1301,Male,59,Fitness,UPI,Rarely,9820.44,Bangalore
+CUST1302,Female,30,Books,UPI,Often,2988.26,Bangalore
+CUST1303,Male,24,Fitness,UPI,Very Often,9902.13,Chennai
+CUST1304,Male,32,Groceries,Debit Card,Very Often,4988.35,Hyderabad
+CUST1305,Male,64,Books,UPI,Often,5836.3,Delhi
+CUST1306,Male,51,Electronics,UPI,Sometimes,3959.53,Mumbai
+CUST1307,Female,41,Groceries,Debit Card,Very Often,9033.85,Kolkata
+CUST1308,Male,30,Clothing,Cash,Rarely,1567.57,Bangalore
+CUST1309,Male,55,Beauty,Debit Card,Sometimes,279.17,Chennai
+CUST1310,Female,51,Clothing,Debit Card,Very Often,3328.39,Kolkata
+CUST1311,Male,46,Clothing,Debit Card,Sometimes,2842.91,Delhi
+CUST1312,Female,39,Beauty,Net Banking,Very Often,8049.62,Bangalore
+CUST1313,Male,43,Electronics,Credit Card,Rarely,8941.42,Delhi
+CUST1314,Female,35,Clothing,UPI,Sometimes,6917.1,Bangalore
+CUST1315,Male,37,Fitness,Debit Card,Very Often,8604.92,Chennai
+CUST1316,Male,49,Groceries,Net Banking,Very Often,3487.24,Bangalore
+CUST1317,Male,41,Groceries,Credit Card,Often,2197.41,Mumbai
+CUST1318,Female,26,Groceries,Credit Card,Sometimes,2679.47,Bangalore
+CUST1319,Male,22,Groceries,UPI,Sometimes,3376.74,Kolkata
+CUST1320,Male,64,Fitness,Net Banking,Rarely,904.17,Mumbai
+CUST1321,Male,59,Electronics,Net Banking,Often,8657.15,Delhi
+CUST1322,Male,53,Fitness,Credit Card,Sometimes,7363.25,Hyderabad
+CUST1323,Male,20,Groceries,Net Banking,Rarely,4423.39,Delhi
+CUST1324,Female,65,Books,Cash,Very Often,857.1,Chennai
+CUST1325,Female,63,Groceries,UPI,Rarely,7114.99,Chennai
+CUST1326,Female,60,Electronics,Net Banking,Often,1443.47,Mumbai
+CUST1327,Male,20,Clothing,Credit Card,Rarely,9365.84,Delhi
+CUST1328,Female,62,Clothing,Net Banking,Often,101.12,Kolkata
+CUST1329,Male,24,Fitness,UPI,Rarely,998.59,Chennai
+CUST1330,Male,34,Books,UPI,Rarely,6227.29,Chennai
+CUST1331,Female,23,Groceries,Cash,Often,9781.26,Delhi
+CUST1332,Female,31,Electronics,Credit Card,Sometimes,9446.59,Bangalore
+CUST1333,Female,53,Electronics,UPI,Rarely,7750.69,Hyderabad
+CUST1334,Male,53,Clothing,UPI,Rarely,852.65,Kolkata
+CUST1335,Female,22,Electronics,UPI,Rarely,1582.43,Mumbai
+CUST1336,Female,54,Books,UPI,Sometimes,4028.43,Mumbai
+CUST1337,Male,42,Fitness,UPI,Very Often,7902.62,Bangalore
+CUST1338,Female,63,Groceries,Debit Card,Often,5378.09,Hyderabad
+CUST1339,Male,29,Beauty,Cash,Very Often,4035.11,Bangalore
+CUST1340,Male,44,Groceries,UPI,Very Often,4981.63,Kolkata
+CUST1341,Male,48,Books,Debit Card,Rarely,5293.19,Hyderabad
+CUST1342,Male,40,Electronics,Net Banking,Very Often,9318.64,Hyderabad
+CUST1343,Male,20,Groceries,UPI,Often,2167.32,Hyderabad
+CUST1344,Male,19,Books,Credit Card,Very Often,1594.24,Hyderabad
+CUST1345,Male,19,Groceries,Net Banking,Sometimes,6009.74,Delhi
+CUST1346,Male,32,Fitness,Cash,Rarely,1757.07,Mumbai
+CUST1347,Female,35,Electronics,Credit Card,Rarely,7983.29,Delhi
+CUST1348,Male,47,Electronics,UPI,Rarely,8407.83,Mumbai
+CUST1349,Male,36,Books,Credit Card,Rarely,846.66,Delhi
+CUST1350,Female,58,Groceries,UPI,Often,3912.7,Hyderabad
+CUST1351,Female,59,Beauty,UPI,Very Often,7062.5,Delhi
+CUST1352,Male,31,Books,Credit Card,Often,6695.41,Hyderabad
+CUST1353,Female,57,Electronics,Net Banking,Sometimes,4151.7,Kolkata
+CUST1354,Female,30,Groceries,Net Banking,Rarely,5241.62,Kolkata
+CUST1355,Male,63,Clothing,Cash,Sometimes,3030.29,Bangalore
+CUST1356,Male,57,Fitness,Cash,Sometimes,2881.92,Bangalore
+CUST1357,Female,38,Electronics,Cash,Sometimes,4980.48,Chennai
+CUST1358,Male,41,Electronics,UPI,Sometimes,309.82,Kolkata
+CUST1359,Female,63,Beauty,UPI,Often,5077.04,Kolkata
+CUST1360,Female,20,Electronics,Credit Card,Sometimes,3353.85,Delhi
+CUST1361,Female,31,Electronics,Debit Card,Often,804.05,Delhi
+CUST1362,Female,37,Clothing,Credit Card,Sometimes,225.84,Mumbai
+CUST1363,Male,36,Books,Credit Card,Often,2771.38,Mumbai
+CUST1364,Female,51,Groceries,Net Banking,Rarely,9062.75,Mumbai
+CUST1365,Male,19,Beauty,Net Banking,Sometimes,2680.76,Mumbai
+CUST1366,Male,45,Groceries,Net Banking,Rarely,311.33,Delhi
+CUST1367,Female,24,Electronics,Net Banking,Very Often,9169.73,Hyderabad
+CUST1368,Female,25,Clothing,UPI,Rarely,8101.64,Chennai
+CUST1369,Female,26,Electronics,UPI,Rarely,1102.67,Kolkata
+CUST1370,Male,25,Books,Cash,Rarely,1660.26,Delhi
+CUST1371,Male,26,Clothing,Credit Card,Rarely,7194.36,Kolkata
+CUST1372,Female,22,Electronics,Credit Card,Often,8685.35,Delhi
+CUST1373,Female,65,Fitness,Net Banking,Often,1821.11,Mumbai
+CUST1374,Female,56,Beauty,UPI,Very Often,4182.61,Bangalore
+CUST1375,Male,51,Clothing,Cash,Sometimes,7373.54,Hyderabad
+CUST1376,Female,62,Groceries,Net Banking,Rarely,3462.99,Chennai
+CUST1377,Male,64,Beauty,Cash,Very Often,9572.89,Mumbai
+CUST1378,Male,54,Electronics,UPI,Often,9729.64,Hyderabad
+CUST1379,Female,18,Beauty,UPI,Sometimes,4206.92,Delhi
+CUST1380,Male,21,Beauty,Credit Card,Very Often,8698.32,Hyderabad
+CUST1381,Male,25,Groceries,Credit Card,Very Often,4507.08,Kolkata
+CUST1382,Male,26,Books,Credit Card,Often,4588.42,Chennai
+CUST1383,Male,24,Fitness,Credit Card,Sometimes,9826.0,Chennai
+CUST1384,Female,27,Groceries,Net Banking,Often,4414.37,Chennai
+CUST1385,Female,25,Groceries,Cash,Rarely,8181.09,Mumbai
+CUST1386,Male,63,Electronics,Net Banking,Very Often,1581.5,Kolkata
+CUST1387,Male,49,Beauty,Net Banking,Sometimes,5500.73,Bangalore
+CUST1388,Female,36,Electronics,Debit Card,Rarely,1888.0,Delhi
+CUST1389,Male,50,Electronics,Cash,Rarely,2765.04,Mumbai
+CUST1390,Female,23,Books,Credit Card,Sometimes,8912.16,Mumbai
+CUST1391,Female,21,Electronics,Cash,Rarely,4722.59,Bangalore
+CUST1392,Male,18,Beauty,UPI,Very Often,8216.91,Hyderabad
+CUST1393,Male,34,Fitness,Debit Card,Rarely,6741.85,Kolkata
+CUST1394,Female,22,Fitness,Net Banking,Rarely,1441.01,Chennai
+CUST1395,Female,65,Clothing,Credit Card,Often,7525.35,Delhi
+CUST1396,Male,49,Clothing,Net Banking,Very Often,8757.34,Chennai
+CUST1397,Female,39,Electronics,Debit Card,Very Often,301.46,Chennai
+CUST1398,Male,21,Clothing,Cash,Very Often,5482.4,Bangalore
+CUST1399,Male,38,Books,Debit Card,Rarely,6447.73,Chennai
+CUST1400,Male,45,Clothing,UPI,Often,2387.63,Hyderabad
+CUST1401,Female,49,Clothing,Debit Card,Often,6169.26,Delhi
+CUST1402,Male,64,Fitness,Net Banking,Very Often,5833.98,Bangalore
+CUST1403,Male,64,Groceries,Credit Card,Very Often,501.67,Chennai
+CUST1404,Female,65,Fitness,Debit Card,Rarely,6713.5,Hyderabad
+CUST1405,Female,24,Clothing,Credit Card,Sometimes,7010.75,Hyderabad
+CUST1406,Male,61,Beauty,UPI,Rarely,8943.86,Mumbai
+CUST1407,Male,48,Electronics,Net Banking,Very Often,4211.78,Bangalore
+CUST1408,Male,28,Electronics,UPI,Sometimes,679.16,Mumbai
+CUST1409,Female,33,Fitness,UPI,Sometimes,8017.43,Chennai
+CUST1410,Female,18,Beauty,Debit Card,Rarely,5038.04,Bangalore
+CUST1411,Male,45,Clothing,Cash,Sometimes,5290.6,Bangalore
+CUST1412,Female,43,Books,Credit Card,Often,1972.02,Bangalore
+CUST1413,Male,58,Clothing,Debit Card,Sometimes,4867.14,Delhi
+CUST1414,Female,38,Books,Debit Card,Rarely,143.27,Chennai
+CUST1415,Male,29,Books,UPI,Very Often,4080.2,Chennai
+CUST1416,Female,19,Electronics,Credit Card,Rarely,7624.08,Bangalore
+CUST1417,Female,58,Clothing,UPI,Sometimes,6516.99,Bangalore
+CUST1418,Male,25,Fitness,Debit Card,Sometimes,6716.63,Bangalore
+CUST1419,Female,22,Electronics,Cash,Rarely,362.59,Delhi
+CUST1420,Female,20,Beauty,UPI,Sometimes,5694.99,Mumbai
+CUST1421,Female,22,Beauty,Cash,Rarely,9846.99,Hyderabad
+CUST1422,Female,27,Groceries,UPI,Sometimes,4069.8,Hyderabad
+CUST1423,Female,48,Books,Debit Card,Rarely,1281.62,Hyderabad
+CUST1424,Male,33,Clothing,Cash,Often,5983.55,Delhi
+CUST1425,Male,54,Beauty,Debit Card,Sometimes,7117.85,Hyderabad
+CUST1426,Female,60,Fitness,Cash,Sometimes,9766.35,Chennai
+CUST1427,Male,46,Fitness,Cash,Rarely,4235.14,Bangalore
+CUST1428,Female,44,Beauty,Debit Card,Rarely,6317.24,Hyderabad
+CUST1429,Female,31,Beauty,Credit Card,Rarely,3010.21,Chennai
+CUST1430,Female,57,Fitness,Cash,Rarely,6450.5,Hyderabad
+CUST1431,Male,53,Fitness,Net Banking,Very Often,3751.7,Delhi
+CUST1432,Female,20,Beauty,Cash,Very Often,7583.47,Mumbai
+CUST1433,Female,34,Beauty,Net Banking,Sometimes,1934.31,Kolkata
+CUST1434,Female,59,Electronics,UPI,Often,1833.09,Hyderabad
+CUST1435,Female,58,Books,Cash,Rarely,4415.79,Mumbai
+CUST1436,Male,65,Clothing,Credit Card,Sometimes,1543.51,Chennai
+CUST1437,Female,64,Books,Net Banking,Sometimes,7335.29,Mumbai
+CUST1438,Female,35,Beauty,Cash,Rarely,4780.76,Kolkata
+CUST1439,Male,57,Fitness,Net Banking,Sometimes,6323.62,Kolkata
+CUST1440,Female,57,Fitness,Net Banking,Rarely,8535.38,Bangalore
+CUST1441,Female,54,Beauty,UPI,Sometimes,8627.45,Bangalore
+CUST1442,Female,62,Electronics,Cash,Often,2943.56,Chennai
+CUST1443,Male,51,Books,Cash,Often,7089.0,Delhi
+CUST1444,Male,23,Beauty,Cash,Very Often,6545.7,Delhi
+CUST1445,Female,20,Groceries,Credit Card,Often,5574.59,Chennai
+CUST1446,Female,45,Groceries,Credit Card,Sometimes,6808.92,Chennai
+CUST1447,Male,33,Fitness,Cash,Often,7888.97,Delhi
+CUST1448,Female,60,Groceries,Net Banking,Sometimes,6571.26,Mumbai
+CUST1449,Male,30,Electronics,Debit Card,Very Often,9753.83,Mumbai
+CUST1450,Female,22,Groceries,Credit Card,Very Often,3599.14,Chennai
+CUST1451,Female,19,Fitness,Credit Card,Often,2151.52,Delhi
+CUST1452,Male,37,Clothing,Credit Card,Very Often,6914.54,Hyderabad
+CUST1453,Male,22,Electronics,UPI,Very Often,210.89,Kolkata
+CUST1454,Female,37,Groceries,Credit Card,Sometimes,2998.84,Kolkata
+CUST1455,Female,46,Beauty,Debit Card,Often,8082.33,Chennai
+CUST1456,Female,25,Books,Credit Card,Sometimes,7929.91,Hyderabad
+CUST1457,Female,40,Fitness,Net Banking,Very Often,653.26,Mumbai
+CUST1458,Female,31,Groceries,Credit Card,Often,6796.9,Bangalore
+CUST1459,Male,59,Clothing,Debit Card,Sometimes,2121.8,Hyderabad
+CUST1460,Female,42,Fitness,Net Banking,Very Often,9516.94,Hyderabad
+CUST1461,Female,58,Beauty,Cash,Often,8817.01,Mumbai
+CUST1462,Male,42,Fitness,Debit Card,Sometimes,8689.72,Mumbai
+CUST1463,Female,43,Beauty,Credit Card,Sometimes,832.1,Delhi
+CUST1464,Female,23,Beauty,Credit Card,Often,9372.3,Kolkata
+CUST1465,Male,63,Beauty,UPI,Very Often,5209.76,Mumbai
+CUST1466,Male,41,Books,Net Banking,Sometimes,9528.88,Mumbai
+CUST1467,Female,52,Groceries,Cash,Sometimes,8995.18,Chennai
+CUST1468,Female,19,Groceries,Cash,Often,665.66,Chennai
+CUST1469,Male,60,Electronics,Cash,Often,3799.86,Chennai
+CUST1470,Male,18,Fitness,Credit Card,Rarely,9542.38,Bangalore
+CUST1471,Male,61,Beauty,Cash,Often,2976.37,Mumbai
+CUST1472,Male,36,Fitness,Credit Card,Sometimes,1401.93,Chennai
+CUST1473,Female,52,Clothing,Debit Card,Rarely,1319.26,Delhi
+CUST1474,Female,21,Groceries,Credit Card,Rarely,8417.44,Delhi
+CUST1475,Male,21,Electronics,Credit Card,Sometimes,1715.7,Mumbai
+CUST1476,Male,54,Beauty,UPI,Rarely,1732.05,Hyderabad
+CUST1477,Male,63,Fitness,Credit Card,Very Often,3015.68,Hyderabad
+CUST1478,Male,53,Groceries,Debit Card,Rarely,9105.63,Chennai
+CUST1479,Female,52,Beauty,UPI,Often,2462.45,Kolkata
+CUST1480,Female,19,Groceries,Cash,Rarely,8456.87,Delhi
+CUST1481,Male,55,Books,UPI,Very Often,1788.51,Bangalore
+CUST1482,Male,47,Books,UPI,Very Often,4761.66,Mumbai
+CUST1483,Female,61,Electronics,Cash,Very Often,6085.36,Delhi
+CUST1484,Male,46,Electronics,Debit Card,Very Often,9492.07,Delhi
+CUST1485,Female,41,Beauty,Credit Card,Sometimes,412.57,Chennai
+CUST1486,Male,26,Clothing,Net Banking,Often,361.99,Mumbai
+CUST1487,Male,42,Groceries,UPI,Sometimes,1607.06,Chennai
+CUST1488,Male,61,Clothing,Net Banking,Sometimes,530.94,Delhi
+CUST1489,Female,32,Books,Net Banking,Sometimes,8332.83,Mumbai
+CUST1490,Female,63,Beauty,Debit Card,Rarely,6143.19,Delhi
+CUST1491,Female,24,Books,Cash,Sometimes,3241.62,Delhi
+CUST1492,Female,50,Books,Credit Card,Very Often,1394.07,Mumbai
+CUST1493,Male,65,Groceries,Net Banking,Sometimes,4435.08,Delhi
+CUST1494,Female,18,Beauty,Net Banking,Very Often,2994.77,Hyderabad
+CUST1495,Male,25,Groceries,Credit Card,Rarely,3677.26,Chennai
+CUST1496,Female,27,Fitness,Debit Card,Often,1857.88,Chennai
+CUST1497,Male,57,Groceries,Cash,Sometimes,2106.82,Kolkata
+CUST1498,Female,28,Clothing,UPI,Often,6044.04,Bangalore
+CUST1499,Female,55,Beauty,Net Banking,Very Often,9151.94,Bangalore
